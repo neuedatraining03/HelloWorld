@@ -37,6 +37,6 @@ public class Conditions {
         if (testScore!= 100){
             System.out.println("You didn't get full marks.");
         }
-        System.out.println("**************");
+        System.out.println("*****$$$$$*********");
     }
 }
